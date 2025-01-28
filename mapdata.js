@@ -176,7 +176,7 @@ var simplemaps_usmap_mapdata={
     },
     SC: {
       name: "South Carolina",
-      description: "ds-<br>kc-119"
+      description: "ds-49<br>kc-119"
     },
     KY: {
       name: "Kentucky",
@@ -188,7 +188,7 @@ var simplemaps_usmap_mapdata={
     },
     LA: {
       name: "Louisiana",
-      description: "ds-<br>kc-81"
+      description: "ds-33<br>kc-81"
     },
     MS: {
       name: "Mississippi",
